@@ -21,5 +21,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=anupkumar73&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=anupkumar73&icon=2&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=anupkumar73&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 
